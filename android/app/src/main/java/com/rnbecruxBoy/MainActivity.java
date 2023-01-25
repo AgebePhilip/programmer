@@ -1,4 +1,4 @@
-package com.rnbecruxBoy;
+package com.rnbecruxboy;
 
 import android.Manifest;
 import android.content.Intent;

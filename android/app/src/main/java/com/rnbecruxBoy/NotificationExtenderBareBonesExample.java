@@ -1,4 +1,4 @@
-package com.rnbecruxBoy;
+package com.rnbecruxboy;
 
 import com.onesignal.NotificationExtenderService;
 import com.onesignal.OSNotificationReceivedResult;

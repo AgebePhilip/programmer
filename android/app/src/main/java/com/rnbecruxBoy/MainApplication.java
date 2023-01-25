@@ -1,4 +1,4 @@
-package com.rnbecruxBoy;
+package com.rnbecruxboy;
 
 import android.app.Application;
 import android.content.Context;

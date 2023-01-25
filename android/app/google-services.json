@@ -98,7 +98,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:930506877678:android:e0d3028b7d663f330921ff",
         "android_client_info": {
-          "package_name": "com.rnbecruxBoy"
+          "package_name": "com.rnbecruxboy"
         }
       },
       "oauth_client": [
@@ -106,7 +106,7 @@
           "client_id": "930506877678-h8rtqq958pls0q329kmmirkkltokiu1b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.rnbecruxBoy",
+            "package_name": "com.rnbecruxboy",
             "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
           }
         },
@@ -114,7 +114,7 @@
           "client_id": "930506877678-n1ub3g4dqgt90e4386npuk82o8vhqicc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.rnbecruxBoy",
+            "package_name": "com.rnbecruxboy",
             "certificate_hash": "ebcf47bab487d57936a0ea08e1bf7f4669ee7c03"
           }
         },

@@ -144,7 +144,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rnbecruxBoy"
+        applicationId "com.rnbecruxboy"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         multiDexEnabled true

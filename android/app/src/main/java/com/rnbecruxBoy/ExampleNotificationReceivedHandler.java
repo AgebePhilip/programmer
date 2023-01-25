@@ -1,4 +1,4 @@
-package com.rnbecruxBoy;
+package com.rnbecruxboy;
 
 import android.util.Log;
 
